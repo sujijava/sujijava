@@ -1,16 +1,15 @@
-### Hi there 👋
+# git
 
-<!--
-**sujijava/sujijava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to Susie's GitHub repositories! #
 
-Here are some ideas to get you started:
+I am a Software Developer with hands on experience in JavaScript(ES6), React, and Java. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Repositories Created By @sujijava
+
+[Untitled](https://www.notion.so/53c9e500dfad4702ad6e4919c4cd6cbe)
+
+### Skills
+
+### Connect With Me:
+
+[linkedin]: [https://linkedin.com/in/s](https://linkedin.com/in/jasonshin0118/)usie8
