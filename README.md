@@ -10,4 +10,4 @@ I am a Software Developer with hands on experience in JavaScript(ES6), React, an
 
 ### Connect With Me:
 
-[linkedin]: [https://linkedin.com/in/s](https://linkedin.com/in/jasonshin0118/)usie8
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/susie8)
