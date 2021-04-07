@@ -1,5 +1,3 @@
-# git
-
 # Welcome to Susie's GitHub repositories! #
 
 I am a Software Developer with hands on experience in JavaScript(ES6), React, and Java. 
