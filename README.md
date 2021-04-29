@@ -6,8 +6,7 @@ I am a Software Developer with hands on experience in JavaScript(ES6), React, an
 | Repo                | Overview                                     | Skills                                        | Links                |
 |---------------------|----------------------------------------------|-----------------------------------------------|----------------------|
 | [toy_city](https://github.com/sujijava/toy_city)            | Inventory management application             | Java Spring, RESTful API, Bootstrap, HTML CSS | Toy City-Java Spring |
-| [fav-movie-picker](https://github.com/sujijava/fav-movie-picker)    | Web application that saves movie into a list | MERN                                          | Movie Picker-MERN    |
-| [https-pizza-creator](https://github.com/sujijava/https-pizza-creator) | Order system for customized pizza            | React, Firebase                               | Pizza Builder-React  |
+| [contact-com](https://github.com/sujijava/contact_com)    | Web application that manges contacts | MERN                                          | MERN    |
 | [bay-shop](https://github.com/sujijava/bay_shop_mern) | e-commerce website | MERN
 
 # Skills
