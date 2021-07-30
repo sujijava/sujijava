@@ -1,4 +1,4 @@
-# Welcome to Susie's GitHub repositories! #
+# Welcome to Suji's GitHub repositories! #
 
 I am a Software Developer with hands on experience in JavaScript(ES6), React, and Java. 
 
@@ -16,4 +16,4 @@ I am a Software Developer with hands on experience in JavaScript(ES6), React, an
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/susie8)
 <br>
-susieoh8@gmail.com
+sujioh5@gmail.com
