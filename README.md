@@ -1,4 +1,10 @@
-# Welcome to Suji's GitHub repositories! #
+# Welcome #
+
+# Blind 75 data structure and algorithm 
+https://github.com/sujijava/ds-algo
+
+# Docker, CICD, Python 
+https://github.com/sujijava/recipe-api
 
 # Connect:
 
