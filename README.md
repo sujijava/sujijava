@@ -1,11 +1,10 @@
 # Welcome to my github profile #
 
-# Recently I have been working on 
-
-### blind 75 DS&Algo 
+# My recent interests are;  
+### 1. blind 75 DS&Algo 
 https://github.com/sujijava/ds-algo
 
-### Docker, CICD, Python 
+### 2. Docker, CICD, Python 
 https://github.com/sujijava/recipe-api
 
 # Connect:
