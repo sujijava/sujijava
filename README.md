@@ -1,9 +1,11 @@
 # Welcome to my github profile #
 
-# Blind 75 data structure and algorithm 
+# Recently I have been working on 
+
+### blind 75 DS&Algo 
 https://github.com/sujijava/ds-algo
 
-# Docker, CICD, Python 
+### Docker, CICD, Python 
 https://github.com/sujijava/recipe-api
 
 # Connect:
