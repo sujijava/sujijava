@@ -1,4 +1,4 @@
-# Welcome #
+# Welcome to my github profile #
 
 # Blind 75 data structure and algorithm 
 https://github.com/sujijava/ds-algo
