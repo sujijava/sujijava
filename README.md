@@ -7,3 +7,5 @@ https://github.com/sujijava/react-docker-aw
 
 ### 3. Go Rails follow alongs
 https://github.com/sujijava/go-rails-follow-alongs
+
+### 4. Readings
