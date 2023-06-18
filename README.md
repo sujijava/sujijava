@@ -9,3 +9,4 @@ https://github.com/sujijava/react-docker-aw
 https://github.com/sujijava/go-rails-follow-alongs
 
 ### 4. Readings
+https://github.com/Vancouver-KDD/book-study/pulls
