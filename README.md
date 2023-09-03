@@ -2,7 +2,7 @@
 
 👩‍💻 I'm a passionate Software Engineer with a deep dive into Ruby on Rails (RoR). Over the years, I've been fortunate to work on multiple challenging projects.
 
-# 🔍 Recently, I've been exploring:
+## 🔍 Recently, I've been exploring:
 ### 1. blind 75 DS&Algo 
 https://github.com/sujijava/ds-algo
 
