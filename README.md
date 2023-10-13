@@ -1,7 +1,5 @@
 👋 Hello, world!
 
-👩‍💻 I'm a Software Engineer with a deep dive into Ruby on Rails (RoR). 
-
 ## 🔍 Recently, I've been exploring:
 ### 1. blind 75 DS&Algo 
 https://github.com/sujijava/ds-algo
