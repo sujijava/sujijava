@@ -5,5 +5,5 @@
 https://github.com/sujijava/leet_coding_w_python
 ### 2. RoR OOP poodi_virtual follow along
 https://github.com/sujijava/poodi_virtual
-### 2. book study 
+### 3. book study 
 https://github.com/sujijava/book-study
